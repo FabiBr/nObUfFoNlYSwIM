@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "com.fabo.nObUfFoNlYSwIM.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"refmap": "nobuffonlyswim.refmap.json",
+	"mixins": [
+        "Swim"
+	],
+	"client": [
+	],
+	"minVersion": "0.8"
+}

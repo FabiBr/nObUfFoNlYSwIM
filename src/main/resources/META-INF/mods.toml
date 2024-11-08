@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="47"
+license="MIT LicenseCopyright (c) 2024 fabo"
+[[mods]]
+modId="nobuffonlyswim"
+version="0.1"
+displayName="nObUfFoNlYSwIM"
+authors="fabo"
+
+description='''Simple Mod that lets mounted Horses swim through water without sinking and throwing the player off. Based on HorseBuff for fabric by F53.'''
+[[dependencies.nObUfFoNlYSwIM]]
+    modId="forge" 
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.nObUfFoNlYSwIM]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20)"
+    ordering="NONE"
+    side="BOTH"
